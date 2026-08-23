@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0045-jump-game-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -85,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1927-sum-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
