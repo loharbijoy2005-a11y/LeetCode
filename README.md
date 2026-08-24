@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
