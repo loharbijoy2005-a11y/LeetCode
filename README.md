@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0045-jump-game-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
