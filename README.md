@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1927-sum-game](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
