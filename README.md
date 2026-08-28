@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0068-text-justification) |
 | [1927-sum-game](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0045-jump-game-ii) |
+| [0068-text-justification](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0068-text-justification) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
