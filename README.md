@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Recursion
 |  |
 | ------- |
