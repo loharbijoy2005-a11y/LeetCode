@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0068-text-justification) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
 ## Merge Sort
 |  |
 | ------- |
@@ -98,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0041-first-missing-positive) |
+| [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
 ## Two Pointers
 |  |
 | ------- |
