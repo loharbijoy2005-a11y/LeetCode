@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
+| [1825-finding-mk-average](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1825-finding-mk-average) |
 ## Merge Sort
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
+| [1825-finding-mk-average](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1825-finding-mk-average) |
 ## Treap
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
+| [1825-finding-mk-average](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1825-finding-mk-average) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0068-text-justification) |
+## Design
+|  |
+| ------- |
+| [1825-finding-mk-average](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1825-finding-mk-average) |
+## Queue
+|  |
+| ------- |
+| [1825-finding-mk-average](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1825-finding-mk-average) |
+## Data Stream
+|  |
+| ------- |
+| [1825-finding-mk-average](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/1825-finding-mk-average) |
 <!---LeetCode Topics End-->
