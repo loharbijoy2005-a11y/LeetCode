@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -121,22 +125,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0480-sliding-window-median](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
