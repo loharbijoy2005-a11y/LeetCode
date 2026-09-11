@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0045-jump-game-ii) |
@@ -156,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/loharbijoy2005-a11y/LeetCode/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
